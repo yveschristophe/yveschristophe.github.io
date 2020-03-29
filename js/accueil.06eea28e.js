@@ -1,0 +1,2 @@
+(window["webpackJsonp"]=window["webpackJsonp"]||[]).push([["accueil"],{ab87:function(a,c,e){"use strict";e.r(c);var n=function(){var a=this,c=a.$createElement,e=a._self._c||c;return e("div",{staticClass:"accueil"},[e("h1",[a._v("FAKE FLIX")]),e("Navbar"),e("Film")],1)},l=[],t=e("d178"),i=e("bcf0"),s={name:"Accueil",components:{Navbar:t["a"],Film:i["a"]}},u=s,r=e("2877"),o=Object(r["a"])(u,n,l,!1,null,null,null);c["default"]=o.exports}}]);
+//# sourceMappingURL=accueil.06eea28e.js.map
